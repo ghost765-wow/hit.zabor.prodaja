@@ -1,0 +1,59 @@
+.content {
+    text-align: right;
+}
+.list{
+    text-align: left;
+    display: inline-block;
+  border-style: solid;
+  border-width: 0.3px;
+ padding-right: 30px;
+}
+   
+
+.main{
+display: inline-block;
+}
+
+
+.rod{
+ border-style: solid;
+    float: right;
+    padding: 5px;
+    margin-left: 5px;
+}
+.rod>div{
+display: flex;
+flex-direction: column;
+}
+
+
+.bg{
+    max-width: 100px;
+}
+
+.rom{
+    text-align: center;
+}
+
+.lol{
+    display: flex;
+    justify-content: space-between;
+}
+.lol>nav>ul{
+    display: flex;
+    list-style: none;
+}
+
+.lol>nav>ul>li>a{
+    display: block;
+    padding: 10px;
+    border-style: solid;
+    border-width: 0.5px;
+}
+ 
+
+.row.g-0 {
+  
+    background-color: aqua;
+}
+

@@ -1,0 +1,24 @@
+.col-lg-4.col-md-6.mt-4 img {
+    text-align: center;
+}
+.roxe {
+    text-align: center;
+}
+
+.new {
+    text-align: center;
+    
+}
+.btn.btn-primary {
+    background-color: white;
+    color: #000000;    
+   }
+
+
+body{
+    background: linear-gradient(270deg, #0083a3 36%, #067a78 91%);
+}
+
+.card.mb-3 {
+    background: linear-gradient(270deg, #0bc9f9 37%, #1b9d9b 97%);
+}
